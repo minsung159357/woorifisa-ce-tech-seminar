@@ -49,7 +49,7 @@ DB : postgreSQL
 - Master-Slave Replication  
 - 장애 처리 - 페일오버 
 
-### 5. 구현
+### 5. 구현 예시
 - 파티셔닝
 - 샤딩
 - 샤딩 + 레플리케이션 
@@ -58,4 +58,6 @@ DB : postgreSQL
 - 해시 샤딩(Sharding) vs 파티셔닝(Partitioning)  
 - 샤딩(Sharding) & 레플리케이션(Replication) 비교  
 
+### 7. Q&A
+1개의 원본(마스터) 에 여러 레플리카 (슬레이브)가 존재할 때 이들 간의 sync 를 어떻게 맞추는지 궁굼합니다.
 ---
