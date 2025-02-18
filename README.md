@@ -1,6 +1,6 @@
 # Topic : 분산데이터베이스 설계
 
-## 1. Team 구구구칠
+## 🌠 Team 구구구칠
 
 |<img src="https://avatars.githubusercontent.com/u/87555330?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/55776421?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/71498489?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/82265395?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
@@ -11,14 +11,16 @@
 특히 마이크로서비스 아키텍처의 확산과 글로벌 서비스의 증가로 인해, 분산 데이터베이스의 설계와 운영은 현대 시스템 아키텍처에서 핵심적인 과제다.
 이에 단순한 CRUD 작업을 넘어, 실제 엔터프라이즈 환경에 적합한 효율적인 데이터베이스 설계 전략을 연구하고자 본 주제를 선정하게 되었다.
 
-## 구현환경
+## ⚒️ 구현환경
 ```
 Server : Docker
 
 DB : postgreSQL
 ```
+## 💡 준비기간
+`2025.02.03` ~ `2025.02.10`
 
-## 기술세미나 목차
+## 📚 기술세미나 목차
 1. 분산 데이터베이스 개요
 2. 파티셔닝 (Partitioning)
 3. 샤딩 (Sharding)
@@ -28,7 +30,7 @@ DB : postgreSQL
 7. Q&A
 8. 멘토 피드백
 
-## 기술세미나 주요 내용
+## 📢 기술세미나 주요 내용
 ### 1. 분산 데이터베이스 개요  
 - 분산 데이터베이스란?  
 - 분산 데이터베이스를 사용하는 이유  
