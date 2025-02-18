@@ -89,8 +89,6 @@ DB : postgreSQL
 
 🛡️ [답변] : <br>
 
-slave node 중 하나를 master node 로 승격시켜
-
 #### ⁉️ 현업에서 왜 수평 분할 파티션을 더 많이 하는지 궁금합니다.
 
 🛡️ [답변] : <br>
